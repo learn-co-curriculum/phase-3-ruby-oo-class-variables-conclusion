@@ -4,8 +4,8 @@ In the past module, we got to know some essential aspects of programming in
 Ruby: class variables and methods. You can do a quick check of the list of
 topics we covered:
 
-- How to recognize a class constant
-- How to utilize class constants
+- How to recognize a class variable
+- How to utilize class variables
 - How to know when to use `attr_accessor`
 - How to know when to define private methods
 - The difference between public and private methods
